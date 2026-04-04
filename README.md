@@ -61,7 +61,7 @@ while p.running:
     print(p.stdout)
 
 print("Process finished with code:", p.returncode)
-
+```
 ## Notes
 This project reflects a pragmatic approach to subprocess handling at the time it was written. While still functional for certain use cases, it is not intended to compete with modern, actively maintained solutions.
 
